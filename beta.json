@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "*"
+        "OriginUrl": "http://website-s3bucket-1s5mzhlwkqo7r.s3-website-eu-west-1.amazonaws.com"
     }
 }
